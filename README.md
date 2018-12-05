@@ -1,5 +1,5 @@
 # Relation-extraction
-关系抽取个人实战总结以及开源工具包使用
+关系抽取个人实战总结及相关论文follow
 
 fyz_RE_model文件夹下是我个人基于CNN和LSTM-ATT复现的代码与论文的精度稍有差别：
 	
